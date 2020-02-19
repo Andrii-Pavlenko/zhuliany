@@ -1,3 +1,3 @@
-# React Airport
+# Airport
 
-Link: `[DEMO LINK](https://andrii-pavlenko.github.io/zhuliany/#/)`
+Link: [DEMO LINK](https://andrii-pavlenko.github.io/zhuliany/#/)
