@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zhuliany/static/css/main.cea54700.chunk.css",
+    "main.js": "/zhuliany/static/js/main.c3347d34.chunk.js",
+    "main.js.map": "/zhuliany/static/js/main.c3347d34.chunk.js.map",
+    "runtime-main.js": "/zhuliany/static/js/runtime-main.9e568839.js",
+    "runtime-main.js.map": "/zhuliany/static/js/runtime-main.9e568839.js.map",
+    "static/js/2.50fd4986.chunk.js": "/zhuliany/static/js/2.50fd4986.chunk.js",
+    "static/js/2.50fd4986.chunk.js.map": "/zhuliany/static/js/2.50fd4986.chunk.js.map",
+    "index.html": "/zhuliany/index.html",
+    "precache-manifest.83440c3b57609182410c0fe3b27f584d.js": "/zhuliany/precache-manifest.83440c3b57609182410c0fe3b27f584d.js",
+    "service-worker.js": "/zhuliany/service-worker.js",
+    "static/css/main.cea54700.chunk.css.map": "/zhuliany/static/css/main.cea54700.chunk.css.map",
+    "static/js/2.50fd4986.chunk.js.LICENSE.txt": "/zhuliany/static/js/2.50fd4986.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e568839.js",
+    "static/js/2.50fd4986.chunk.js",
+    "static/css/main.cea54700.chunk.css",
+    "static/js/main.c3347d34.chunk.js"
+  ]
+}
